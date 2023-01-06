@@ -28,4 +28,14 @@ header {
 
 .card:hover {
   background-color: #d3d3d3;
+  transform: scale(1.05);
+}
+
+.card-text {
+  color: black;
+}
+
+a {
+  color: black;
+  text-decoration: none;
 }

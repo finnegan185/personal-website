@@ -15,18 +15,18 @@ function Home(props) {
         <div className="container">
           <div className="row pt-3">
             <div className="col">
-              <Card src="\public\ZackUniversityCard.jpg" alt="ZackUniversity" />
+              <Card src="\public\ZackUniversityCard.jpg" alt="ZackUniversity" title="Oncology Research Web App" link="https://zfinnegan.com/" />
             </div>
             <div className="col">
-              <Card src="\public\ZackUniversityCard.jpg" alt="ZackUniversity" />
+              <Card src="\public\SocialMediaAppReact.JPG" alt="React Course" title="React Course Web App" link="https://reactcourse.zfinnegan.com/" />
             </div>
           </div>
           <div className="row pt-4">
             <div className="col">
-              <Card src="\public\ZackUniversityCard.jpg" alt="ZackUniversity" />
+              <Card src="\public\SocialMediaAppNoReact.JPG" alt="No React Course" title="JS, HTML & CSS Course Web App" link="https://noreactcourse.zfinnegan.com/" />
             </div>
             <div className="col">
-              <Card src="\public\ZackUniversityCard.jpg" alt="ZackUniversity" />
+              <Card src="\public\travelSiteCourse.JPG" alt="Travel Site Course" title="Web Developer Course Web App" link="https://finnegan185.github.io/travel-site/" />
             </div>
           </div>
         </div>
