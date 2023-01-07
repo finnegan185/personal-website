@@ -2,7 +2,7 @@ import React from "react";
 
 function Card(props) {
   return (
-    <div className="card shadow">
+    <div className="card shadow mb-3">
       <a href={props.link} target="_blank">
         <img src={props.src} className="card-img-top border-bottom" alt={props.alt} />
         <div className="card-body">
