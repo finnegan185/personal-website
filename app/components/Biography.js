@@ -33,7 +33,7 @@ function Biography(props) {
         </div>
       </div>
       <div>
-        <p className="text-muted pt-4 me-5">Lead Research Coordinator with a Computer Science degree with over 6 years experience managing over 100 Oncology research protocols at an NCI-designated Comprehensive Cancer Center. Continually looking for software and automated solutions for improving workflow and efficiency. Instrumental in process improvement implementation(s), audit prep, billing quality assurance, supervising, and training teams of 2-6 on the Head & Neck, Gastrointestinal, Genitourinary, Breast, Thoracic and Phase 1 research teams. Looking to apply my skillsets in software engineering.</p>
+        <p className="text-muted pt-4 me-5">Problem solver with a system level view leveraging new technology and software to find ways of improving workflow and efficiency. Currently a Lead Research Coordinator with a Computer Science degree with over 6 years experience managing over 100 Oncology research protocols at an NCI-designated Comprehensive Cancer Center. Instrumental in process improvement implementation(s), audit prep, billing quality assurance, supervising, and training teams of 2-6.</p>
       </div>
     </div>
   );
